@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>How To Make A Website</title>
+</head>
+<body style="background-color: powderblue;">
+  <h1 style="
+  color: red;
+  background-color: pink;
+  ">How To Make A Website
+  </h1>
+  <p style="
+  color: green;
+  background-color: lightgreen;
+  ">To make complex websites your going to need to learn html, css and java script.
+    I'm only going to be talking about the basics of html and css but if you want to learn more you can go on <a href="https://www.w3schools.com/">W3Schools.com<a> you can also go on supersimpledev's youtube chanel and there's a totorial on html,css and javascipt.
+   </p>
+   <p>This is how to we use css: tagname style="property:value;".
+</p>
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.8zEJn1dzAbVZGqL-UwTUrwHaEK%26pid%3DApi&f=1&ipt=0d1939c3acacfe7539922e4e43c5232f1c0d5fc7651606ecd9c9d69c3fec954a&ipo=images">
+	<p>This is an image.</p>
+<p style="font-family:courier;">This has a courier font</p>
+<p style="font-family: verdana;">This has a verdana font</p>
+<p>If you want a list of all the fonts just go on <a href="https://www.w3schools.com/TAGS/ref_attributes.asp"a>W3schools.com/TAGS/ref_attributes.</a>
+</body>
+</html>
